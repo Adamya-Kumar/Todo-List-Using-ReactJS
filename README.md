@@ -43,7 +43,7 @@ To start the application, run:
 ```sh
 npm start
 ```
-This will launch the app in development mode. Open [http://localhost:5173/](localhost:5173) to view it in the browser. The page will reload if you make edits.
+This will launch the app in development mode. Open [http://localhost:5173](http://localhost:5173) to view it in the browser. The page will reload if you make edits.
 
 ## Contributing
 
