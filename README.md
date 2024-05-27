@@ -6,7 +6,6 @@ Welcome to the Todo List application built with ReactJS! This project is a simpl
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -20,9 +19,6 @@ Welcome to the Todo List application built with ReactJS! This project is a simpl
 - **Mark as Complete:** Mark tasks as complete to keep track of your progress.
 - **Responsive Design:** Works well on both desktop and mobile devices.
 
-## Demo
-
-Check out a live demo of the application [here](#).
 
 ## Installation
 
